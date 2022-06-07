@@ -1,0 +1,15 @@
+F:\MyCSharp\MyCSharp\Lab02\bin\Debug\net6.0\Lab02.exe
+F:\MyCSharp\MyCSharp\Lab02\bin\Debug\net6.0\Lab02.deps.json
+F:\MyCSharp\MyCSharp\Lab02\bin\Debug\net6.0\Lab02.runtimeconfig.json
+F:\MyCSharp\MyCSharp\Lab02\bin\Debug\net6.0\Lab02.dll
+F:\MyCSharp\MyCSharp\Lab02\bin\Debug\net6.0\Lab02.pdb
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\Lab02.csproj.AssemblyReference.cache
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\Lab02.AssemblyInfoInputs.cache
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\Lab02.AssemblyInfo.cs
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\Lab02.csproj.CoreCompileInputs.cache
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\Lab02.dll
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\refint\Lab02.dll
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\Lab02.pdb
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\Lab02.genruntimeconfig.cache
+F:\MyCSharp\MyCSharp\Lab02\obj\Debug\net6.0\ref\Lab02.dll
